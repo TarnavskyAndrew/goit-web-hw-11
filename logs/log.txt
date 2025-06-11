@@ -1,0 +1,116 @@
+2025-06-11 23:10:40,428 | MainThread | Files found and processed: 54
+2025-06-11 23:11:43,801 | MainThread | Files found and processed: 54
+2025-06-11 23:13:24,833 | MainThread | Files found and processed: 54
+2025-06-11 23:13:24,835 | ThreadPoolExecutor-0_0 | Start copying 142--15-09-20--14-24-00.jpg
+2025-06-11 23:13:24,835 | ThreadPoolExecutor-0_1 | Start copying 46908445_946722405519654_5833870154219388928_n.jpg
+2025-06-11 23:13:24,835 | ThreadPoolExecutor-0_2 | Start copying bot-icon.png
+2025-06-11 23:13:24,836 | ThreadPoolExecutor-0_3 | Start copying javascript_encapsulation.jpg
+2025-06-11 23:13:25,538 | ThreadPoolExecutor-0_0 | Finished copying 142--15-09-20--14-24-00.jpg
+2025-06-11 23:13:25,539 | ThreadPoolExecutor-0_0 | Start copying photo_2018-06-03_11-49-55.jpg
+2025-06-11 23:13:25,539 | ThreadPoolExecutor-0_2 | Finished copying bot-icon.png
+2025-06-11 23:13:25,539 | ThreadPoolExecutor-0_3 | Finished copying javascript_encapsulation.jpg
+2025-06-11 23:13:25,539 | ThreadPoolExecutor-0_1 | Finished copying 46908445_946722405519654_5833870154219388928_n.jpg
+2025-06-11 23:13:25,540 | ThreadPoolExecutor-0_2 | Start copying Dev-Icon-Green-192.png
+2025-06-11 23:13:25,540 | ThreadPoolExecutor-0_3 | Start copying e-learning_icon.jpg
+2025-06-11 23:13:25,540 | ThreadPoolExecutor-0_1 | Start copying lzBkVoR.png
+2025-06-11 23:13:26,242 | ThreadPoolExecutor-0_0 | Finished copying photo_2018-06-03_11-49-55.jpg
+2025-06-11 23:13:26,242 | ThreadPoolExecutor-0_0 | Start copying mongodb.jpg
+2025-06-11 23:13:26,243 | ThreadPoolExecutor-0_1 | Finished copying lzBkVoR.png
+2025-06-11 23:13:26,243 | ThreadPoolExecutor-0_3 | Finished copying e-learning_icon.jpg
+2025-06-11 23:13:26,243 | ThreadPoolExecutor-0_2 | Finished copying Dev-Icon-Green-192.png
+2025-06-11 23:13:26,243 | ThreadPoolExecutor-0_1 | Start copying utilities-terminal-icon.png
+2025-06-11 23:13:26,244 | ThreadPoolExecutor-0_3 | Start copying 580b57fcd9996e24bc43c530.png
+2025-06-11 23:13:26,244 | ThreadPoolExecutor-0_2 | Start copying IBM+Logo+for+Acclaim+Profile.png
+2025-06-11 23:13:26,944 | ThreadPoolExecutor-0_0 | Finished copying mongodb.jpg
+2025-06-11 23:13:26,945 | ThreadPoolExecutor-0_0 | Start copying ibm.svg
+2025-06-11 23:13:26,946 | ThreadPoolExecutor-0_3 | Finished copying 580b57fcd9996e24bc43c530.png
+2025-06-11 23:13:26,946 | ThreadPoolExecutor-0_2 | Finished copying IBM+Logo+for+Acclaim+Profile.png
+2025-06-11 23:13:26,946 | ThreadPoolExecutor-0_1 | Finished copying utilities-terminal-icon.png
+2025-06-11 23:13:26,947 | ThreadPoolExecutor-0_3 | Start copying logo-tm.png
+2025-06-11 23:13:26,947 | ThreadPoolExecutor-0_2 | Start copying Netflix_Logo_DigitalVideo_0701.jpg
+2025-06-11 23:13:26,947 | ThreadPoolExecutor-0_1 | Start copying uber-logo-decal-sticker-uber-logo-500x500.png
+2025-06-11 23:13:27,647 | ThreadPoolExecutor-0_0 | Finished copying ibm.svg
+2025-06-11 23:13:27,648 | ThreadPoolExecutor-0_0 | Start copying 0da49d3ef8c750c480313b7cc2ea1123.jpg
+2025-06-11 23:13:27,650 | ThreadPoolExecutor-0_3 | Finished copying logo-tm.png
+2025-06-11 23:13:27,651 | ThreadPoolExecutor-0_1 | Finished copying uber-logo-decal-sticker-uber-logo-500x500.png
+2025-06-11 23:13:27,651 | ThreadPoolExecutor-0_2 | Finished copying Netflix_Logo_DigitalVideo_0701.jpg
+2025-06-11 23:13:27,651 | ThreadPoolExecutor-0_3 | Start copying 1-UTGVejeSej9w7x_aRuZ1IA.jpeg
+2025-06-11 23:13:27,651 | ThreadPoolExecutor-0_1 | Start copying 15-Websites-built-with-Express_785.png
+2025-06-11 23:13:27,652 | ThreadPoolExecutor-0_2 | Start copying 2017-07-12_135143.png
+2025-06-11 23:13:28,349 | ThreadPoolExecutor-0_0 | Finished copying 0da49d3ef8c750c480313b7cc2ea1123.jpg
+2025-06-11 23:13:28,350 | ThreadPoolExecutor-0_0 | Start copying 3-tuberculosis.jpg
+2025-06-11 23:13:28,354 | ThreadPoolExecutor-0_2 | Finished copying 2017-07-12_135143.png
+2025-06-11 23:13:28,354 | ThreadPoolExecutor-0_1 | Finished copying 15-Websites-built-with-Express_785.png
+2025-06-11 23:13:28,354 | ThreadPoolExecutor-0_3 | Finished copying 1-UTGVejeSej9w7x_aRuZ1IA.jpeg
+2025-06-11 23:13:28,355 | ThreadPoolExecutor-0_2 | Start copying 612195-636458390742664213-16x9.jpg
+2025-06-11 23:13:28,355 | ThreadPoolExecutor-0_1 | Start copying Dc-cIXeVAAU5z0y.jpg
+2025-06-11 23:13:28,355 | ThreadPoolExecutor-0_3 | Start copying DPlMaBtW4AA-Yfs.jpg
+2025-06-11 23:13:29,053 | ThreadPoolExecutor-0_0 | Finished copying 3-tuberculosis.jpg
+2025-06-11 23:13:29,053 | ThreadPoolExecutor-0_0 | Start copying golang.sh-600x600.png
+2025-06-11 23:13:29,059 | ThreadPoolExecutor-0_3 | Finished copying DPlMaBtW4AA-Yfs.jpg
+2025-06-11 23:13:29,059 | ThreadPoolExecutor-0_1 | Finished copying Dc-cIXeVAAU5z0y.jpg
+2025-06-11 23:13:29,059 | ThreadPoolExecutor-0_2 | Finished copying 612195-636458390742664213-16x9.jpg
+2025-06-11 23:13:29,059 | ThreadPoolExecutor-0_3 | Start copying hqdefault.jpg
+2025-06-11 23:13:29,059 | ThreadPoolExecutor-0_1 | Start copying icon-nodejs.png
+2025-06-11 23:13:29,060 | ThreadPoolExecutor-0_2 | Start copying Install-Node.js-for-Windows.jpg
+2025-06-11 23:13:29,755 | ThreadPoolExecutor-0_0 | Finished copying golang.sh-600x600.png
+2025-06-11 23:13:29,756 | ThreadPoolExecutor-0_0 | Start copying Logo_nodeuainfo.png
+2025-06-11 23:13:29,763 | ThreadPoolExecutor-0_3 | Finished copying hqdefault.jpg
+2025-06-11 23:13:29,763 | ThreadPoolExecutor-0_1 | Finished copying icon-nodejs.png
+2025-06-11 23:13:29,763 | ThreadPoolExecutor-0_2 | Finished copying Install-Node.js-for-Windows.jpg
+2025-06-11 23:13:29,763 | ThreadPoolExecutor-0_3 | Start copying mongodb.png
+2025-06-11 23:13:29,764 | ThreadPoolExecutor-0_1 | Start copying NodeJS (1).png
+2025-06-11 23:13:29,764 | ThreadPoolExecutor-0_2 | Start copying nodejs-todo-app-begin.png
+2025-06-11 23:13:30,458 | ThreadPoolExecutor-0_0 | Finished copying Logo_nodeuainfo.png
+2025-06-11 23:13:30,458 | ThreadPoolExecutor-0_0 | Start copying nodeJS.jpg
+2025-06-11 23:13:30,466 | ThreadPoolExecutor-0_3 | Finished copying mongodb.png
+2025-06-11 23:13:30,466 | ThreadPoolExecutor-0_1 | Finished copying NodeJS (1).png
+2025-06-11 23:13:30,466 | ThreadPoolExecutor-0_2 | Finished copying nodejs-todo-app-begin.png
+2025-06-11 23:13:30,466 | ThreadPoolExecutor-0_3 | Start copying nodejs.png
+2025-06-11 23:13:30,467 | ThreadPoolExecutor-0_1 | Start copying nodejslogo.png
+2025-06-11 23:13:30,467 | ThreadPoolExecutor-0_2 | Start copying nodejs_dark_by_wfuller-db4e1ip.png
+2025-06-11 23:13:31,162 | ThreadPoolExecutor-0_0 | Finished copying nodeJS.jpg
+2025-06-11 23:13:31,162 | ThreadPoolExecutor-0_0 | Start copying node_turtle.jpg
+2025-06-11 23:13:31,169 | ThreadPoolExecutor-0_1 | Finished copying nodejslogo.png
+2025-06-11 23:13:31,169 | ThreadPoolExecutor-0_3 | Finished copying nodejs.png
+2025-06-11 23:13:31,169 | ThreadPoolExecutor-0_2 | Finished copying nodejs_dark_by_wfuller-db4e1ip.png
+2025-06-11 23:13:31,170 | ThreadPoolExecutor-0_1 | Start copying risovach.ru.jpg
+2025-06-11 23:13:31,170 | ThreadPoolExecutor-0_3 | Start copying schedule.png
+2025-06-11 23:13:31,171 | ThreadPoolExecutor-0_2 | Start copying SQL-MongoDB Correspondence.PNG
+2025-06-11 23:13:31,864 | ThreadPoolExecutor-0_0 | Finished copying node_turtle.jpg
+2025-06-11 23:13:31,864 | ThreadPoolExecutor-0_0 | Start copying Зачем-нужен-Node.js-.jpg
+2025-06-11 23:13:31,872 | ThreadPoolExecutor-0_1 | Finished copying risovach.ru.jpg
+2025-06-11 23:13:31,872 | ThreadPoolExecutor-0_1 | Start copying Рисунок1.png
+2025-06-11 23:13:31,873 | ThreadPoolExecutor-0_2 | Finished copying SQL-MongoDB Correspondence.PNG
+2025-06-11 23:13:31,873 | ThreadPoolExecutor-0_3 | Finished copying schedule.png
+2025-06-11 23:13:31,873 | ThreadPoolExecutor-0_2 | Start copying Рисунок2.png
+2025-06-11 23:13:31,874 | ThreadPoolExecutor-0_3 | Start copying 3760d167-7870-48f3-a50f-56df139274b2.jpeg
+2025-06-11 23:13:32,568 | ThreadPoolExecutor-0_0 | Finished copying Зачем-нужен-Node.js-.jpg
+2025-06-11 23:13:32,568 | ThreadPoolExecutor-0_0 | Start copying 8039ebad-c20f-4cf1-b42f-b6a226dbce76.png
+2025-06-11 23:13:32,575 | ThreadPoolExecutor-0_1 | Finished copying Рисунок1.png
+2025-06-11 23:13:32,576 | ThreadPoolExecutor-0_1 | Start copying js.png
+2025-06-11 23:13:32,576 | ThreadPoolExecutor-0_3 | Finished copying 3760d167-7870-48f3-a50f-56df139274b2.jpeg
+2025-06-11 23:13:32,577 | ThreadPoolExecutor-0_3 | Start copying Node-JS-wallpaper-1920-1200.jpg
+2025-06-11 23:13:32,577 | ThreadPoolExecutor-0_2 | Finished copying Рисунок2.png
+2025-06-11 23:13:32,577 | ThreadPoolExecutor-0_2 | Start copying node-wallpaper.jpg
+2025-06-11 23:13:33,270 | ThreadPoolExecutor-0_0 | Finished copying 8039ebad-c20f-4cf1-b42f-b6a226dbce76.png
+2025-06-11 23:13:33,271 | ThreadPoolExecutor-0_0 | Start copying nodejs-2560x1440.png
+2025-06-11 23:13:33,278 | ThreadPoolExecutor-0_1 | Finished copying js.png
+2025-06-11 23:13:33,278 | ThreadPoolExecutor-0_1 | Start copying nodejs-wallpaper-nsfw.jpg
+2025-06-11 23:13:33,279 | ThreadPoolExecutor-0_3 | Finished copying Node-JS-wallpaper-1920-1200.jpg
+2025-06-11 23:13:33,280 | ThreadPoolExecutor-0_2 | Finished copying node-wallpaper.jpg
+2025-06-11 23:13:33,280 | ThreadPoolExecutor-0_3 | Start copying node_js_by_myvushka-d8yrtqh.jpg
+2025-06-11 23:13:33,280 | ThreadPoolExecutor-0_2 | Start copying 1600 (1).png
+2025-06-11 23:13:33,974 | ThreadPoolExecutor-0_0 | Finished copying nodejs-2560x1440.png
+2025-06-11 23:13:33,974 | ThreadPoolExecutor-0_0 | Start copying 1600 (2).png
+2025-06-11 23:13:33,980 | ThreadPoolExecutor-0_1 | Finished copying nodejs-wallpaper-nsfw.jpg
+2025-06-11 23:13:33,980 | ThreadPoolExecutor-0_1 | Start copying 1600.png
+2025-06-11 23:13:33,982 | ThreadPoolExecutor-0_3 | Finished copying node_js_by_myvushka-d8yrtqh.jpg
+2025-06-11 23:13:33,983 | ThreadPoolExecutor-0_2 | Finished copying 1600 (1).png
+2025-06-11 23:13:34,677 | ThreadPoolExecutor-0_0 | Finished copying 1600 (2).png
+2025-06-11 23:13:34,682 | ThreadPoolExecutor-0_1 | Finished copying 1600.png
+2025-06-11 23:16:26,183 | MainThread | Files found and processed: 54
+2025-06-11 23:16:57,379 | MainThread | Files found and processed: 54
+2025-06-11 23:17:02,132 | MainThread | Files found and processed: 54
+2025-06-11 23:17:10,720 | MainThread | Files found and processed: 54
+2025-06-11 23:17:29,305 | MainThread | Files found and processed: 54
