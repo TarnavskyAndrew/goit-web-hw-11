@@ -6,8 +6,9 @@
 #log files
 *.log
 *.logs
-*log*
-*logs*
+*log.*
+*logs.*
+
 
 # Poetry
 .poetry/
